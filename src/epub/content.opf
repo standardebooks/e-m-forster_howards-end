@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-m-forster/howards-end</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-07-16T00:58:47Z</dc:date>
+		<meta property="dcterms:modified">2020-07-16T00:58:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,15 +57,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">38</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The lives of three families of different classes intertwine in Edwardian England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Howards End&lt;/i&gt;, published in 1910, is considered by many to be &lt;a href="https://standardebooks.org/ebooks/e-m-forster"&gt;Forster’s&lt;/a&gt; masterpiece. The plot revolves around three families in Edwardian England: the Schlegels, a trio of half-German, middle-class siblings who to poor people seem rich, but to rich people seem poor; the Wilcoxes, a large, wealthy family of businessmen; and the Basts, a lower class young couple struggling to keep up appearances.&lt;/p&gt;
+			&lt;p&gt;The Schlegel siblings are sharp, intelligent, and idealistic, and they pursue culture and art with an enthusiasm reminiscent of the Bloomsbury group. They befriend the Wilcoxes while on a trip abroad, and the lonely Wilcox matriarch and Margaret Schlegel, the strong-willed elder sister, strike up a friendship. As their families begin butting heads in London, Helen, the younger Schlegel sister, runs in to Leonard Bast while at the opera. Bast is proud and ambitious, but clearly impoverished and lacking gentility. Helen, a rash and fiery idealist, take him up as a pet project, oblivious to the deep cultural gulf between Bast and themselves as she tries her best to educate him in matters of art and literature and lift him out of his class.&lt;/p&gt;
+			&lt;p&gt;The interplay between the three families becomes a complex reflection on social codes and class difference in England: how class can lock lives in place, and how even the well-to-do are not immune from becoming ossified in their station thanks to the seemingly-unbreakable social conventions of the age. Capitalism, a still-new philosophy of life, is juxtaposed against humanism and the arts as the families try to do what they each think is the right thing. Forster weaves these threads expertly against the backdrop of London city life and the cozy family cottage of Howards End, the ultimate centerpiece in these three family’s lives.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2946</dc:source>
 		<dc:source>https://www.google.com/books/edition/Howards_End/G7xfuc7lWvMC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">111737</meta>
+		<meta property="se:reading-ease.flesch">75.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Howards_End</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-m-forster_howards-end</meta>
 		<dc:creator id="author">E. M. Forster</dc:creator>

@@ -57,6 +57,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">38</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">17</meta>
 		<dc:description id="description">The lives of three families of different classes intertwine in Edwardian England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Howards End&lt;/i&gt;, published in 1910, is considered by many to be &lt;a href="https://standardebooks.org/ebooks/e-m-forster"&gt;Forster’s&lt;/a&gt; masterpiece. The plot revolves around three families in Edwardian England: the Schlegels, a trio of half-German, middle-class siblings who to poor people seem rich, but to rich people seem poor; the Wilcoxes, a large, wealthy family of businessmen; and the Basts, a lower class young couple struggling to keep up appearances.&lt;/p&gt;

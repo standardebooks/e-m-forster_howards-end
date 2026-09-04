@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Howards End</dc:title>
 		<meta property="file-as" refines="#title">Howards End</meta>
-		<dc:subject id="subject-1">Inheritance and succession -- Fiction</dc:subject>
-		<dc:subject id="subject-2">England -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Sisters -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Inheritance and succession--Fiction</dc:subject>
+		<dc:subject id="subject-2">England--Fiction</dc:subject>
+		<dc:subject id="subject-3">Sisters--Fiction</dc:subject>
 		<dc:subject id="subject-4">Domestic fiction</dc:subject>
-		<dc:subject id="subject-5">Country homes -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Illegitimate children -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Social classes -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Remarried people -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Country homes--Fiction</dc:subject>
+		<dc:subject id="subject-6">Illegitimate children--Fiction</dc:subject>
+		<dc:subject id="subject-7">Social classes--Fiction</dc:subject>
+		<dc:subject id="subject-8">Remarried people--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008104235</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
